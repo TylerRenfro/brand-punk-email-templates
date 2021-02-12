@@ -1,0 +1,36 @@
+<mjml>
+  <mj-body>
+    <!-- Company Header -->
+    <mj-section background-color="#fafafa">
+      <mj-column>
+        <mj-image width="275px" src="./img/brand-punk-logo.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    
+    <!-- Email Content -->
+    <mj-section background-color="#fff">
+      <mj-column>
+        <!-- Intro Content -->
+        <mj-text font-weight="regular" font-size="14px" color="#000" align="center" font-family="Arial">
+          <strong>Your video is ready.</strong> Click the button below to download it.
+        </mj-text>
+
+        <!-- Video Thumbnail -->
+        <mj-image width="275px" src="./img/video-thumbnail.jpg"></mj-image>
+
+        <!-- Download Button -->
+        <mj-button font-family="Arial" font-weight="bold" width="275px" background-color="#000" href="#">
+          Download Video
+        </mj-button>
+
+        <mj-divider padding="25px 0 10px 0" border-width="1px" border-style="solid" border-color="#eee"></mj-divider>
+
+        <!-- Support Content -->
+        <mj-text font-size="11px" align="center" color="#666" font-family="Arial"> 
+          If you have any issues with your video please <a style="color: #666;" href="#">contact support</a>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
