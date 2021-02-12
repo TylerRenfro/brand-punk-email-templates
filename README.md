@@ -17,7 +17,7 @@ git clone https://github.com/TylerRenfro/brand-punk-email-templates.git
 
 To preview the templates in your local, add the MJML plugin to your VSCode editor.
 
-[MJML VSCode Plugin](https://www.marketplace.visualstudio.com/items?itemName=mjmlio.vscode-mjml)
+[MJML VSCode Plugin](https://marketplace.visualstudio.com/items?itemName=mjmlio.vscode-mjml)
 
 ### Help & Documentation
 
